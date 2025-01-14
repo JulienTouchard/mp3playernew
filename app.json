@@ -1,4 +1,10 @@
 {
   "name": "mp3playernew",
-  "slug": "mp3playernew"
+  "slug": "mp3playernew",
+  "android": {
+    "package": "com.anonymous.mp3playernew"
+  },
+  "plugins": [
+    "expo-audio"
+  ]
 }

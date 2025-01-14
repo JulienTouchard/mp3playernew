@@ -1,0 +1,115 @@
+{
+    "sound": {
+        "_coalesceStatusUpdatesInMillis": 100,
+        "_errorCallback": [Function anonymous
+        ],
+        "_eventEmitter": {
+            "__expo_module_name__": "ExponentAV",
+            "addListener": [Function addListener
+            ],
+            "emit": [Function emit
+            ],
+            "getAudioRecordingStatus": [Function getAudioRecordingStatus
+            ],
+            "getAvailableInputs": [Function getAvailableInputs
+            ],
+            "getCurrentInput": [Function getCurrentInput
+            ],
+            "getPermissionsAsync": [Function getPermissionsAsync
+            ],
+            "getStatusForSound": [Function getStatusForSound
+            ],
+            "getStatusForVideo": [Function getStatusForVideo
+            ],
+            "listenerCount": [Function listenerCount
+            ],
+            "loadForSound": [Function loadForSound
+            ],
+            "loadForVideo": [Function loadForVideo
+            ],
+            "pauseAudioRecording": [Function pauseAudioRecording
+            ],
+            "prepareAudioRecorder": [Function prepareAudioRecorder
+            ],
+            "removeAllListeners": [Function removeAllListeners
+            ],
+            "removeListener": [Function removeListener
+            ],
+            "removeSubscription": [Function removeSubscription
+            ],
+            "replaySound": [Function replaySound
+            ],
+            "replayVideo": [Function replayVideo
+            ],
+            "requestPermissionsAsync": [Function requestPermissionsAsync
+            ],
+            "setAudioIsEnabled": [Function setAudioIsEnabled
+            ],
+            "setAudioMode": [Function setAudioMode
+            ],
+            "setInput": [Function setInput
+            ],
+            "setStatusForSound": [Function setStatusForSound
+            ],
+            "setStatusForVideo": [Function setStatusForVideo
+            ],
+            "startAudioRecording": [Function startAudioRecording
+            ],
+            "startObserving": [Function startObserving
+            ],
+            "stopAudioRecording": [Function stopAudioRecording
+            ],
+            "stopObserving": [Function stopObserving
+            ],
+            "unloadAudioRecorder": [Function unloadAudioRecorder
+            ],
+            "unloadForSound": [Function unloadForSound
+            ],
+            "unloadForVideo": [Function unloadForVideo
+            ]
+        },
+        "_internalErrorCallback": [Function anonymous
+        ],
+        "_internalMetadataUpdateCallback": [Function anonymous
+        ],
+        "_internalStatusUpdateCallback": [Function anonymous
+        ],
+        "_key": 7,
+        "_lastStatusUpdate": null,
+        "_lastStatusUpdateTime": null,
+        "_loaded": true,
+        "_loading": false,
+        "_onAudioSampleReceived": null,
+        "_onMetadataUpdate": null,
+        "_onPlaybackStatusUpdate": null,
+        "_subscriptions": [
+            [Object
+            ],
+            [Object
+            ],
+            [Object
+            ]
+        ],
+        "getStatusAsync": [Function anonymous
+        ]
+    },
+    "status": {
+        "androidImplementation": "SimpleExoPlayer",
+        "audioPan": 0,
+        "didJustFinish": false,
+        "durationMillis": 299258,
+        "isBuffering": true,
+        "isLoaded": true,
+        "isLooping": false,
+        "isMuted": false,
+        "isPlaying": false,
+        "playableDurationMillis": 29440,
+        "positionMillis": 0,
+        "progressUpdateIntervalMillis": 500,
+        "rate": 1,
+        "shouldCorrectPitch": false,
+        "shouldPlay": false,
+        "uri": "/data/user/0/host.exp.exponent/cache/ExperienceData/%40anonymous%2Fmp3playernew-a39aab31-1790-488b-93d3-a45ca9ea93fd/ExponentAsset-8e8af22b8b8d23dd006aa3f16fec3d93.mp3",
+        "volume": 1
+    }
+}
